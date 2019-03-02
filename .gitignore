@@ -62,3 +62,5 @@ buck-out/
 .watchmanconfig
 __tests__/
 babel.config.js
+/Android
+/ios
