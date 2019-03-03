@@ -11,6 +11,7 @@ class PlaceInput extends Component {
   }
 
   placeNameChangedHandler = val => {
+    console.log('asdfasdf')
     this.setState({
       placeName: val,
       
